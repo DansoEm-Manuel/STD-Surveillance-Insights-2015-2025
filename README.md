@@ -1,15 +1,3 @@
-# 🌍 A Decade of STD Trends: From Data to Action (2015–2025)
-
-An end-to-end data analytics capstone project developed as part of the Blossom Academy SCILL Data Analytics Cohort. This project analyzes global STD trends, disease burden, mortality patterns, regional disparities, and public health interventions using data-driven insights and storytelling.
-
----
-
-## 📸 Project Preview
-
-![STD Surveillance Insight Dashboard](images/dashboard.png)
-
----
-
 ## 📑 Table of Contents
 
 * [📖 Project Overview](#-project-overview)
@@ -31,7 +19,23 @@ An end-to-end data analytics capstone project developed as part of the Blossom A
 * [🚀 Project Outcome](#-project-outcome)
 * [👨‍💻 Author](#-author)
 
+# 🌍 A Decade of STD Trends: From Data to Action (2015–2025)
+
+An end-to-end data analytics capstone project developed as part of the Blossom Academy SCILL Data Analytics Cohort. This project analyzes global STD trends, disease burden, mortality patterns, regional disparities, and public health interventions using data-driven insights and storytelling.
+
 ---
+
+## 📸 Project Preview
+
+<img width="1247" height="708" alt="FF" src="https://github.com/user-attachments/assets/6cfaaf1e-4e06-4d80-89d4-bdfe9a8de6f4" />
+<img width="1247" height="708" alt="FF" src="https://github.com/user-attachments/assets/ca166ad4-b3b9-4ba0-a82f-cf263c42863d" />
+<img width="1247" height="708" alt="FF" src="https://github.com/user-attachments/assets/146fe0cc-1425-429a-98d0-b3e59e46a58c" />
+
+
+
+
+---
+
 
 # 📖 Project Overview
 
